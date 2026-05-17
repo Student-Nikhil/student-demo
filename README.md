@@ -1,4 +1,4 @@
 # student-demo
 This is my git Repository
 <br/>
-Author : Nikhil Patil
+Author : Nikhil (patil)
